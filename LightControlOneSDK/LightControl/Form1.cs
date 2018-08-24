@@ -15,9 +15,9 @@ namespace LightControl
         }
 
         // 设置语言理解服务终结点、密钥、应用程序ID
-        const string luisRegion = "eastasia";
-        const string luisKey = "5008bbcc45184a8cb1298ec8bb77c759";
-        const string luisAppId = "130e348f-d131-41d1-96b2-a29d42cc1d96";
+        const string luisRegion = "******";
+        const string luisKey = "********************************";
+        const string luisAppId = "********-****-****-****-************";
 
         // 意图识别器
         IntentRecognizer recognizer;

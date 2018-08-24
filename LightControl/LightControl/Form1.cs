@@ -15,13 +15,13 @@ namespace LightControl
         }
 
         // 设置语音服务密钥及区域
-        const string speechKey = "6d04e77c6c6f4a02a9cf942f6419ffaf";
-        const string speechRegion = "westus";
+        const string speechKey = "********************************";
+        const string speechRegion = "******";
 
         // 设置语言理解服务终结点、密钥、应用程序ID
-        const string luisEndpoint = "https://westus.api.cognitive.microsoft.com";
-        const string luisKey = "58c57e08c8d540a4aa2196588eb69f8a";
-        const string luisAppId = "130e348f-d131-41d1-96b2-a29d42cc1d96";
+        const string luisEndpoint = "https://******.api.cognitive.microsoft.com";
+        const string luisKey = "********************************";
+        const string luisAppId = "********-****-****-****-************";
 
         // 语音识别器
         SpeechRecognizer recognizer;
